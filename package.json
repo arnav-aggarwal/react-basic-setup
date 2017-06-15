@@ -13,7 +13,9 @@
   "keywords": [
     "react",
     "webpack",
-    "babel"
+    "babel",
+    "node",
+    "express"
   ],
   "author": "Arnav Aggarwal",
   "license": "MIT",
@@ -22,6 +24,11 @@
   },
   "homepage": "https://github.com/arnav-aggarwal/react-basic-setup#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.6.1"
   }
 }
