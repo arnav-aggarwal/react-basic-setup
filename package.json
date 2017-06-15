@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/arnav-aggarwal/react-basic-setup/issues"
   },
-  "homepage": "https://github.com/arnav-aggarwal/react-basic-setup#readme"
+  "homepage": "https://github.com/arnav-aggarwal/react-basic-setup#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
