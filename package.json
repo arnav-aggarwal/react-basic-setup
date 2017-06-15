@@ -1,0 +1,27 @@
+{
+  "name": "react-basic-setup",
+  "version": "1.0.0",
+  "description": "A basic setup of the React ecosystem to get you up and going",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnav-aggarwal/react-basic-setup.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "babel"
+  ],
+  "author": "Arnav Aggarwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnav-aggarwal/react-basic-setup/issues"
+  },
+  "homepage": "https://github.com/arnav-aggarwal/react-basic-setup#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
